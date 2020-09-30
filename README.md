@@ -21,6 +21,7 @@ brief site overview : https://www.youtube.com/watch?v=kjp33e7CMuE&feature=youtu.
 
 link to my specific update videos playlist : https://www.youtube.com/playlist?list=PLkllGfnqCkYWV6VHo8DNhgAlEBOPDykIY
 
+I was responsible for the star rating component, it's pop-up on hover star chart, as well as the header and footer for the pages.
 
 ---
 
