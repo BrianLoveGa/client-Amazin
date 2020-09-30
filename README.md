@@ -16,9 +16,12 @@ The server can be found here _-_ GitHub Repo = https://github.com/Quaran-Team/se
 
 
 ## **Demo Link:**
+
 brief site overview : https://www.youtube.com/watch?v=kjp33e7CMuE&feature=youtu.be
 
 link to my specific update videos playlist : https://www.youtube.com/playlist?list=PLkllGfnqCkYWV6VHo8DNhgAlEBOPDykIY
+
+
 ---
 
 We did not use create-react-app from command line, but we did use react to conjure up our HTML, CSS, and JavaScript.
