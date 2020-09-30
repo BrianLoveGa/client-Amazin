@@ -4,7 +4,7 @@ This is the client (front-end) side of our Amazin' project created by Talent Pat
 
 <!-- Picture below of home page of our Amazin' App  -->
 
-![alt text](https://github.com/Quaran-Team/client-Amazin/blob/master/amazinscreen.JPG "Screen shot from the Amazin' App mock e-commerce site")
+![alt text](https://github.com/BrianLoveGa/client-Amazin/blob/master/amazinPage.JPG "Screen shot from the Amazin' App mock e-commerce site")
 
 ---
 
